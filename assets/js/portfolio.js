@@ -478,7 +478,7 @@ function displaySkills(category) {
 
         const mainTitle2 = document.createElement('h2');
         mainTitle2.className = 'skills-main-title';
-        mainTitle2.textContent = '💪 Comp&eacute;tences Techniques';
+        mainTitle2.textContent = '💪 Compétences Techniques';
         mainSection2.appendChild(mainTitle2);
 
         const categoryGrid = document.createElement('div');
@@ -574,7 +574,7 @@ const projectsData = {
                 { src: "./assets/images/projets/infographie/IV/logoUP2.jpg", description: "Logo" },
 				{ src: "./assets/images/projets/infographie/IV/carte2HORI7-final.jpg", description: "Carte de visite" },
 				{ src: "./assets/images/projets/infographie/IV/profil2.jpg", description: "Banni&egrave;re site web" },
-                { src: "./assets/images/projets/infographie/IV/fiche_g&eacute;n&eacute;rale_com_vente.jpg", description: "Fiche communication" }
+                { src: "./assets/images/projets/infographie/IV/fiche_générale_com_vente.jpg", description: "Fiche communication" }
             ]
         },
         {
@@ -694,7 +694,7 @@ const projectsData = {
             id: 26,
             title: "Game Design - Top Down Shooter",
             description: "Conception et r&eacute;alisation d'un mini jeu, mon premier !!",
-            coverImage: "./assets/images/projets/gamedesign/topdownshooter/cultiste.png",
+            coverImage: "./assets/images/projets/gamedesign/topdownshooter/bg-topD.jpg",
             images: [
                 { src: "./assets/images/projets/gamedesign/topdownshooter/bg-topD.jpg", description: "Background du lobby" },
                 { src: "./assets/images/projets/gamedesign/topdownshooter/bg-topD.jpg", description: "Cr&eacute;ation asset sous Blender" }
