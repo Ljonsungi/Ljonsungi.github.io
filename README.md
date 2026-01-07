@@ -1,2 +1,2 @@
-# lionelg.github.io
+# Ljonsungi.github.io
 Portfolio Lionel G. 2025
