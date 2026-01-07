@@ -18,12 +18,12 @@ const skillsData = {
 		{ name: "Adobe InDesign", level: "average", logo: "📄", category: "Langages"  },
 		// COMPÉTENCES MÉTIER (avec détails)
         { 
-            name: "Modélisation 3D", 
+            name: "Mod&eacute;lisation 3D", 
             level: "master", 
             logo: "🧊", 
             category: "Competences",
             details: [
-                "Modélisation polygonale",
+                "Mod&eacute;lisation polygonale",
                 "Texturing et UV mapping",
                 "Eclairage et rendu",
                 "Animation basique",
@@ -31,13 +31,13 @@ const skillsData = {
             ]
         },
         { 
-            name: "Création Identité Visuelle", 
+            name: "Cr&eacute;ation Identit&eacute; Visuelle", 
             level: "master", 
             logo: "🏷️", 
             category: "Competences",
             details: [
                 "Recherche concept visuel",
-                "Création logo et déclinaisons",
+                "Cr&eacute;ation logo et d&eacute;clinaisons",
                 "Charte graphique complète",
                 "Palette couleurs corporate",
                 "Guide utilisation marque"
@@ -51,8 +51,8 @@ const skillsData = {
         details: [
             "Correction colorimetrique",
             "Retouche beaute portrait",
-            "Suppression élements indesirables",
-            "Photomontage réaliste",
+            "Suppression &eacute;lements indesirables",
+            "Photomontage r&eacute;aliste",
             "Optimisation web et print"
         ]
     },
@@ -65,7 +65,7 @@ const skillsData = {
             "Illustration vectorielle",
             "Illustration digitale painting",
             "Character design",
-            "Création pictogrammes icones",
+            "Cr&eacute;ation pictogrammes icones",
             "Illustrations editoriales"
         ]
     },
@@ -105,7 +105,7 @@ const skillsData = {
         { name: "Unreal Engine", level: "good", logo: "assets/images/logo/Unreal.png", category: "Langages"  },
 		{ name: "Unity", level: "average", logo: "assets/images/logo/Unity.png", category: "Langages"  },
   
-		// COMPÉTENCES MÉTIER
+		// COMP&eacute;TENCES M&eacute;TIER
         { 
             name: "Prototypage", 
             level: "master", 
@@ -113,7 +113,7 @@ const skillsData = {
             category: "Competences",
             details: [
                 "Conception rapide gameplay",
-                "Tests itératifs mécaniques",
+                "Tests it&eacute;ratifs m&eacute;caniques",
                 "Validation concept jouabilite",
                 "Paper prototyping",
                 "Prototypes jouables Unity / Unreal"
@@ -126,10 +126,10 @@ const skillsData = {
             category: "Competences",
             details: [
                 "Architecture niveaux",
-                "Gestion rythme et difficulté",
+                "Gestion rythme et difficult&eacute;",
                 "Placement ennemis et items",
                 "Flow et guidage joueur",
-                "Tests et équilibrage"
+                "Tests et &eacute;quilibrage"
             ]
         },
         { 
@@ -138,11 +138,11 @@ const skillsData = {
             logo: "📋", 
             category: "Competences",
             details: [
-                "Rédaction GDD complet",
-                "Documentation mécaniques",
-                "Spécifications techniques",
+                "R&eacute;daction GDD complet",
+                "Documentation m&eacute;caniques",
+                "Sp&eacute;cifications techniques",
                 "Diagrammes et flowcharts",
-                "Mise a jour itérative"
+                "Mise a jour it&eacute;rative"
             ]
         },
         { 
@@ -152,10 +152,10 @@ const skillsData = {
             category: "Competences",
             details: [
                 "Communication designer/dev",
-                "Spécifications claires",
-                "Gestion feedback équipe",
+                "Sp&eacute;cifications claires",
+                "Gestion feedback &eacute;quipe",
                 "Adaptation contraintes tech",
-                "Suivi implémentation"
+                "Suivi impl&eacute;mentation"
             ]
         },
         { 
@@ -167,7 +167,7 @@ const skillsData = {
                 "Analyse UX joueur",
                 "Interface intuitive",
                 "Courbe apprentissage",
-                "Accessibilité gameplay",
+                "Accessibilit&eacute; gameplay",
                 "Tests utilisateurs"
             ]
         },
@@ -177,8 +177,8 @@ const skillsData = {
             logo: "📊", 
             category: "Competences",
             details: [
-                "Analyse marché et concurrence",
-                "Définition cible joueurs",
+                "Analyse march&eacute; et concurrence",
+                "D&eacute;finition cible joueurs",
                 "Etude tendances gaming",
                 "Benchmark jeux similaires",
                 "Positionnement produit"
@@ -189,12 +189,12 @@ const skillsData = {
         { name: "AutoCAD", level: "average", logo: "assets/images/logo/autocad.png", category: "Langages"  },
 		// COMPÉTENCES MÉTIER
         { 
-            name: "Rénovation Murs", 
+            name: "R&eacute;novation Murs", 
             level: "master", 
             logo: "🧱", 
             category: "Competences",
             details: [
-                "Préparation surfaces",
+                "Pr&eacute;paration surfaces",
                 "Application enduit rebouchage",
                 "Ponçage et lissage",
                 "Traitement fissures",
@@ -202,12 +202,12 @@ const skillsData = {
             ]
         },
         { 
-            name: "Peinture Intérieure", 
+            name: "Peinture Int&eacute;rieure", 
             level: "master", 
             logo: "🖌️", 
             category: "Competences",
             details: [
-                "Préparation supports",
+                "Pr&eacute;paration supports",
                 "Application sous-couche",
                 "Peinture murs et plafonds",
                 "Finitions angles et bordures",
@@ -215,7 +215,7 @@ const skillsData = {
             ]
         },
 		{ 
-            name: "Electricité et Installation", 
+            name: "Electricit&eacute; et Installation", 
             level: "good", 
             logo: "💡", 
             category: "Competences",
@@ -224,7 +224,7 @@ const skillsData = {
                 "Tirage cables et gaines",
                 "Raccordement tableau electrique",
                 "Pose luminaires et spots",
-                "Vérification conformité normes"
+                "V&eacute;rification conformit&eacute; normes"
             ]
         },
         
@@ -234,10 +234,10 @@ const skillsData = {
             logo: "🪵", 
             category: "Competences",
             details: [
-                "Préparation sol support",
+                "Pr&eacute;paration sol support",
                 "Pose sous-couche isolation",
                 "Installation lames parquet",
-                "Découpes et ajustements",
+                "D&eacute;coupes et ajustements",
                 "Pose plinthes finition"
             ]
         },
@@ -247,10 +247,10 @@ const skillsData = {
             logo: "⬜", 
             category: "Competences",
             details: [
-                "Préparation surface et traçage",
+                "Pr&eacute;paration surface et traçage",
                 "Application mortier colle",
                 "Pose carreaux et niveau",
-                "Découpes précises",
+                "D&eacute;coupes pr&eacute;cises",
                 "Joints et nettoyage"
             ]
         }
@@ -271,16 +271,16 @@ const skillsData = {
 			]
         },
 		{ 
-            name: "Découpe Cuir", 
+            name: "D&eacute;coupe Cuir", 
             level: "master", 
             logo: "✂️", 
             category: "Competences",
             details: [
-                "Sélection et lecture du cuir",
+                "S&eacute;lection et lecture du cuir",
                 "Traçage patron sur cuir",
-                "Découpe précise au cutter",
+                "D&eacute;coupe pr&eacute;cise au cutter",
                 "Optimisation chutes",
-                "Préparation pièces assemblage"
+                "Pr&eacute;paration pièces assemblage"
             ]
         },
         { 
@@ -293,7 +293,7 @@ const skillsData = {
                 "Point sellier traditionnel",
                 "Gestion tension fil",
                 "Assemblage pièces cuir",
-                "Coutures décoratives"
+                "Coutures d&eacute;coratives"
             ]
         },
         { 
@@ -302,15 +302,15 @@ const skillsData = {
             logo: "🎨", 
             category: "Competences",
             details: [
-                "Préparation surface cuir",
+                "Pr&eacute;paration surface cuir",
                 "Application teinture uniforme",
-                "Technique patine nuancée",
+                "Technique patine nuanc&eacute;e",
                 "Fixation couleur",
                 "Protection finition"
             ]
         },
         { 
-            name: "Finitions Qualité", 
+            name: "Finitions Qualit&eacute;", 
             level: "master", 
             logo: "✨", 
             category: "Competences",
@@ -318,8 +318,8 @@ const skillsData = {
                 "Ponçage tranches cuir",
                 "Application cire bordures",
                 "Polissage et lustrage",
-                "Pose accessoires métal",
-                "Contrôle qualité final"
+                "Pose accessoires m&eacute;tal",
+                "Contrôle qualit&eacute; final"
             ]
         },
         { 
@@ -328,9 +328,9 @@ const skillsData = {
             logo: "👜", 
             category: "Competences",
             details: [
-                "Création patron sur-mesure",
-                "Sélection cuir adapté",
-                "Assemblage toutes étapes",
+                "Cr&eacute;ation patron sur-mesure",
+                "S&eacute;lection cuir adapt&eacute;",
+                "Assemblage toutes &eacute;tapes",
                 "Gestion contraintes techniques",
                 "Livraison produit fini"
             ]
@@ -350,26 +350,26 @@ const skillsData = {
 
 		// COMPÉTENCES MÉTIER
         { 
-            name: "Développement Site Web", 
+            name: "D&eacute;veloppement Site Web", 
             level: "master", 
             logo: "🌍", 
             category: "Competences",
             details: [
-                "Structure HTML sémantique",
+                "Structure HTML s&eacute;mantique",
                 "Styling CSS responsive",
-                "JavaScript/PHP/SQL intéractif",
+                "JavaScript/PHP/SQL int&eacute;ractif",
                 "Optimisation performances",
-                "Compatibilité navigateurs"
+                "Compatibilit&eacute; navigateurs"
             ]
         },
         { 
-            name: "Développement Application", 
+            name: "D&eacute;veloppement Application", 
             level: "good", 
             logo: "📱", 
             category: "Competences",
             details: [
                 "Architecture logicielle",
-                "Gestion données locales",
+                "Gestion donn&eacute;es locales",
                 "Interface utilisateur",
                 "Gestion erreurs et logs",
                 "Tests et debugging"
@@ -381,11 +381,11 @@ const skillsData = {
             logo: "🎮", 
             category: "Competences",
             details: [
-                "Mécaniques gameplay",
-                "Système évènements",
+                "M&eacute;caniques gameplay",
+                "Système &eacute;vènements",
                 "Gestion collisions",
                 "Optimisation performances",
-                "Intégration assets"
+                "Int&eacute;gration assets"
             ]
         },
         { 
@@ -405,7 +405,7 @@ const skillsData = {
 };
 
 /* ============================================
-   AFFICHAGE DES COMPÉTENCES SÉPARÉES
+   AFFICHAGE DES COMP&eacute;TENCES S&eacute;PARÉES
    ============================================ */
 function displaySkills(category) {
     const skillsGrid = document.getElementById('skillsGrid');
@@ -478,7 +478,7 @@ function displaySkills(category) {
 
         const mainTitle2 = document.createElement('h2');
         mainTitle2.className = 'skills-main-title';
-        mainTitle2.textContent = '💪 Compétences Techniques';
+        mainTitle2.textContent = '💪 Comp&eacute;tences Techniques';
         mainSection2.appendChild(mainTitle2);
 
         const categoryGrid = document.createElement('div');
@@ -622,31 +622,31 @@ const projectsData = {
         }
     ],
     progra: [
-    {
+    /*{
         id: 18,
         title: "Script Unity - Système de Combat",
-        description: "Développement d'un système de combat modulaire pour jeu Unity",
+        description: "D&eacute;veloppement d'un système de combat modulaire pour jeu Unity",
         coverImage: "https://placehold.co/800x600/6c63ff/ffffff?text=Unity+Script",
         images: [
             { src: "https://placehold.co/1200x800/6c63ff/ffffff?text=Code+Architecture", description: "Architecture du code" },
             { src: "https://placehold.co/1200x800/5a52d5/ffffff?text=Inspector", description: "Paramètres dans Unity" },
-            { src: "https://placehold.co/1200x800/4840bb/ffffff?text=Demo", description: "Démonstration en jeu" }
+            { src: "https://placehold.co/1200x800/4840bb/ffffff?text=Demo", description: "D&eacute;monstration en jeu" }
         ]
     },
     {
         id: 19,
         title: "Outil d'Automatisation Python",
-        description: "Script pour automatiser le traitement de fichiers et données",
+        description: "Script pour automatiser le traitement de fichiers et donn&eacute;es",
         coverImage: "https://placehold.co/800x600/306998/ffffff?text=Python+Tool",
         images: [
             { src: "https://placehold.co/1200x800/306998/ffffff?text=Interface", description: "Interface utilisateur" },
-            { src: "https://placehold.co/1200x800/234d6d/ffffff?text=Results", description: "Résultats du traitement" }
+            { src: "https://placehold.co/1200x800/234d6d/ffffff?text=Results", description: "R&eacute;sultats du traitement" }
         ]
-    },
+    },*/
     {
         id: 20,
         title: "Portfolio Web 2025",
-        description: "Développement de ce portfolio avec HTML, CSS et JavaScript",
+        description: "D&eacute;veloppement de ce portfolio avec HTML, CSS et JavaScript",
         coverImage: "./assets/images/projets/infographie/IV/portfolio2025.jpg",
         images: [
             { src: "https://placehold.co/1200x800/e34c26/ffffff?text=Homepage", description: "Page d'accueil responsive" },
@@ -659,22 +659,45 @@ const projectsData = {
         {
             id: 3,
             title: "Prototype Alchemyst v0.1",
-            description: "Conception complète d'un jeu mobile de puzzles",
-            coverImage: "https://placehold.co/800x600/9b59b6/ffffff?text=Puzzle+Game",
+            description: "Conception et r&eacute;alisation d'un prototype de jeux vid&eacute;o",
+            coverImage: "./assets/images/projets/gamedesign/alchemyst/screen Alchemyst.png",
             images: [
-                { src: "https://placehold.co/1200x800/9b59b6/ffffff?text=Gameplay", description: "Interface de jeu" },
-                { src: "https://placehold.co/1200x800/8e44ad/ffffff?text=Levels", description: "Conception des niveaux" },
-                { src: "https://placehold.co/1200x800/6c3483/ffffff?text=UI", description: "Interface utilisateur" }
+                { src: "./assets/images/projets/gamedesign/alchemyst/gameconcept.jpg", description: "Cr&eacute;ation du game concept" },
+                { src: "./assets/images/projets/gamedesign/alchemyst/leveldesign1.jpg", description: "Conception du Level Design" },
+                { src: "./assets/images/projets/gamedesign/alchemyst/leveldesignFigma.jpg", description: "Level Design sur Figma" },
+                { src: "./assets/images/projets/gamedesign/alchemyst/marketing.jpg", description: "Etude marketing li&eacute;e" },
+                { src: "./assets/images/projets/gamedesign/alchemyst/gdd.jpg", description: "Conception du Game Design Document" },
+                { src: "./assets/images/projets/gamedesign/alchemyst/Board12.jpg", description: "Conception d'un board atypique" }
             ]
         },
         {
             id: 4,
-            title: "Level Design - Platformer",
-            description: "Cr&eacute;ation de niveaux pour jeu de plateforme 2D",
-            coverImage: "https://placehold.co/800x600/1abc9c/ffffff?text=Platformer",
+            title: "Game Design - Hugo Derive",
+            description: "Participation à la conception d'un prototype et GDD d'un jeu Infinyte Runner, projet commun",
+            coverImage: "./assets/images/projets/gamedesign/hugo/lveldesignhugo.jpg",
             images: [
-                { src: "https://placehold.co/1200x800/1abc9c/ffffff?text=Level+1", description: "Niveau 1 - Forêt" },
-                { src: "https://placehold.co/1200x800/16a085/ffffff?text=Level+2", description: "Niveau 2 - Montagne" }
+                { src: "./assets/images/projets/gamedesign/hugo/lveldesignhugo.jpg", description: "Level Design Hugo D&eacute;rive" },
+                { src: "./assets/images/projets/gamedesign/hugo/lveldesignhugo.jpg", description: "Prototype Unreal" }
+            ]
+        },
+        {
+            id: 25,
+            title: "Game Design - Red Dhead Attraction (En cours)",
+            description: "Conception et r&eacute;alisation d'un mini jeu - WIP",
+            coverImage: "./assets/images/projets/gamedesign/red/cultiste.png",
+            images: [
+                { src: "./assets/images/projets/gamedesign/red/cultiste.png", description: "Cr&eacute;ation asset sous Blender" },
+                { src: "./assets/images/projets/gamedesign/red/lampadaire.png", description: "Cr&eacute;ation asset sous Blender" }
+            ]
+        },
+        {
+            id: 26,
+            title: "Game Design - Top Down Shooter",
+            description: "Conception et r&eacute;alisation d'un mini jeu, mon premier !!",
+            coverImage: "./assets/images/projets/gamedesign/topdownshooter/cultiste.png",
+            images: [
+                { src: "./assets/images/projets/gamedesign/topdownshooter/bg-topD.jpg", description: "Background du lobby" },
+                { src: "./assets/images/projets/gamedesign/topdownshooter/bg-topD.jpg", description: "Cr&eacute;ation asset sous Blender" }
             ]
         }
     ],
@@ -688,7 +711,6 @@ const projectsData = {
                 { src: "./assets/images/projets/renov/sdb/me1.jpg", description: "Carrelage de salle de bain" },
                 { src: "./assets/images/projets/renov/sdb/s1.jpg", description: "Avant / Apr&egrave;s" },
 				{ src: "./assets/images/projets/renov/sdb/s2.jpg", description: "Avant / Apr&egrave;s" }
-              /*  { src: "https://placehold.co/1200x800/d35400/ffffff?text=Chambre", description: "Chambre principale" }*/
             ]
         },
         {
@@ -698,8 +720,8 @@ const projectsData = {
             coverImage: "./assets/images/projets/renov/p1/p11.jpg",
             images: [
                 { src: "./assets/images/projets/renov/p1/wip2.jpg", description: "Enduit et lisage des murs" },
-                { src: "./assets/images/projets/renov/p1/wip3.jpg", description: "Peinture plafond et murs, finition des coins, pr�paration sol" },
-                { src: "./assets/images/projets/renov/p1/wip4.jpg", description: "Parquet en cours de r�alisation" },
+                { src: "./assets/images/projets/renov/p1/wip3.jpg", description: "Peinture plafond et murs, finition des coins, pr&eacute;paration sol" },
+                { src: "./assets/images/projets/renov/p1/wip4.jpg", description: "Parquet en cours de r&eacute;alisation" },
                 { src: "./assets/images/projets/renov/p1/wip5.jpg", description: "Pose des plinthes et finition parquet" },
                 { src: "./assets/images/projets/renov/p1/p11.jpg", description: "Avant / Apr&egrave;s" }
             ]
@@ -721,7 +743,7 @@ const projectsData = {
             description: "R&eacute;novation de murs anciens",
             coverImage: "./assets/images/projets/renov/p3/p31.jpg",
             images: [
-                { src: "./assets/images/projets/renov/p3/p31.jpg", description: "R&eacute;novation murs, �lectricit�, luminaire" }
+                { src: "./assets/images/projets/renov/p3/p31.jpg", description: "R&eacute;novation murs, &eacute;lectricit&eacute;, luminaire" }
             ]
         },
 		{
@@ -730,7 +752,7 @@ const projectsData = {
             description: "R&eacute;novation de murs anciens et parquet",
             coverImage: "./assets/images/projets/renov/p4/p41.jpg",
             images: [
-                { src: "./assets/images/projets/renov/p4/wip1.jpg", description: "R&eacute;novation murs et �lectricit�" },
+                { src: "./assets/images/projets/renov/p4/wip1.jpg", description: "R&eacute;novation murs et &eacute;lectricit&eacute;" },
                 { src: "./assets/images/projets/renov/p4/wip2.jpg", description: "Parquet en cours de r&eacute;alisation" },
                 { src: "./assets/images/projets/renov/p4/wip3.jpg", description: "Parquet flottant" },
                 { src: "./assets/images/projets/renov/p4/p41.jpg", description: "Avant / Apr&egrave;s" },
@@ -743,7 +765,7 @@ const projectsData = {
             description: "R&eacute;novation de murs anciens dans un escalier",
             coverImage: "./assets/images/projets/renov/p5/p51.jpg",
             images: [
-                { src: "./assets/images/projets/renov/p5/p51.jpg", description: "R&eacute;novation murs et �lectricit�" }
+                { src: "./assets/images/projets/renov/p5/p51.jpg", description: "R&eacute;novation murs et &eacute;lectricit&eacute;" }
             ]
         },
         {
